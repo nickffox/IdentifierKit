@@ -21,8 +21,8 @@ IdentifierKit allows you to easily replace `String` and `Int` identifier with st
 
 <!-- * iOS 8.0+ / macOS 10.10+ / tvOS 9.0+ / watchOS 2.0+ -->
 * iOS 8.0+
-* Xcode 9.2
-* Swift 4
+* Xcode 9.2+
+* Swift 4+
 
 ## Installation
 

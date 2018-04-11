@@ -35,6 +35,6 @@ Replace your Int/String identifiers with strongly typed Identifier objects.
   # s.test_spec 'Tests' do |test_spec|
   #   test_spec.source_files = 'IdentifierKitTests/**/*'
   # end
-  s.swift_version = '4.0'
+  s.swift_version = '4.1'
 
 end
